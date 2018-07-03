@@ -9,3 +9,7 @@ https://codeburst.io/unit-testing-in-express-with-promise-based-middleware-and-c
 # field validators
 
 https://express-validator.github.io/docs/
+
+# angular universal
+
+https://medium.com/@cyrilletuzi/angular-server-side-rendering-in-node-with-express-universal-engine-dce21933ddce
