@@ -26,3 +26,7 @@ mocha
 supertest
 mongodb-prebuilt
 nyc
+
+http module
+
+https://codeutopia.net/blog/2015/01/30/how-to-unit-test-nodejs-http-requests/
