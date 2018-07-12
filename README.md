@@ -13,3 +13,16 @@ https://express-validator.github.io/docs/
 # angular universal
 
 https://medium.com/@cyrilletuzi/angular-server-side-rendering-in-node-with-express-universal-engine-dce21933ddce
+
+# http tests
+
+http://evanshortiss.com/development/javascript/2016/04/15/express-testing-using-ioc.html
+
+https://github.com/visionmedia/supertest
+
+chai
+sinon
+mocha
+supertest
+mongodb-prebuilt
+nyc
